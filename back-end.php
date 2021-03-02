@@ -1,7 +1,1 @@
-<?php
-
-
-header( 'Location: /mainPage.html'); 
-
-
-?> 
+<?php include_once("mainPage.html"); ?>
